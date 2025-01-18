@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashishk3.web.illinois.edu](https://ashishk3.web.illinois.edu)
 
-- 💬 Ask me about **Scheduling, Network Simulations using omnetpp and ns-3, Real-Time OS, Embedded Linux,**
+- 💬 Ask me about **Scheduling, Network Simulations using omnetpp and ns-3, Real-Time OS, Embedded Linux, Power Management**
 
 - 📫 How to reach me **ashishk3@illinois.edu**
 
