@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **eBPF and its applications to network resource allocation**
 
-- 👯 I’m looking to collaborate on **Routing and Cost Optimization in Network Resource Allocation problems in general.**
+- 👯 I’m looking to collaborate on **Routing and Cost Optimization in Network Resource Allocation problems.**
 
 - 👨‍💻 All of my projects are available at [https://ashishk3.web.illinois.edu](https://ashishk3.web.illinois.edu)
 
