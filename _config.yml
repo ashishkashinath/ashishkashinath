@@ -1,0 +1,9 @@
+# Site settings
+title: "Research in Deterministic Networking and Resiliency in CPS"
+author:
+  name: Ashish Kashinath
+  email: ashishk3@illinois.edu
+description: "Experiments and Analyses in Real-Time Systems, Scheduling and Performance Guarantees."
+
+# Build settings
+remote_theme: jekyll/minima
